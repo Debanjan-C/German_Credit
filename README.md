@@ -47,7 +47,7 @@ Libraries    : pandas, matplotlib, seaborn, scikit learn
 Last Updated : October 2020
 </pre>
 
-## References and contributions
+## Reference and contribution
 <pre>
 - Dataset: https://www.kaggle.com/kabure/german-credit-data-with-risk.
 - Referred to: https://www.kaggle.com/uciml/german-credit
