@@ -34,7 +34,7 @@ In order to predict the accuracy of the credit risk an individual posseses, I us
 
 ##  Contributor
 <pre>
-Contributer  : Debanjan Chowdhury
+Contributer  : <a href=https://github.com/Debanjan-C>Debanjan Chowdhury</a>
 </pre>
 
 ##  Software Requirements - Packages used
