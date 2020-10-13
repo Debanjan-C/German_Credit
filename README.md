@@ -5,8 +5,9 @@
 
 ## Repository Navigation
 <pre>
-Technical Notebook         : <>Technical Notebook </a>
-Code                       : <></a>
+Technical Notebook         : <https://github.com/Debanjan-C/German_Credit/blob/main/Notebook/Technical_Notebook.ipynb>Technical Notebook </a>
+Code                       : <https://github.com/Debanjan-C/German_Credit/blob/main/Notebook/Code.ipynb>Code</a>
+Data                       : <https://github.com/Debanjan-C/German_Credit/blob/main/data/german_credit_data.csv></a>
 
 </pre>
 
@@ -16,13 +17,15 @@ This is a project where we are identiying the credit details of individuals in G
 ## Business Goal 
 I am a Data Scientist in Frankfurt for a finance company where I am verifying individuals credit detailss based on the information they provide me like their age, bank savings about details, checking account details, current credit amount, housing information, the purpose of their credit details, etc. Following that, it is evaluated by the company about the risk levels of whether it is considered good or bad. My role is to verify the accuracy of the risks and evaluate what could be a potential solution to help improve accuracy or provide any advice, so the company can let the user know when they are really under a serious risk and when they are not.
 
-In order to predict the accuracy of the credit risk an individual posseses, I used logistic regression and decision trees to verify if the risk is correct or not. I compared the logistic regressiona nd decision tree and realized taht one is relatively better than the other one. I will be using supervised learning as we are given the labeled datasets and also will be developing test and training sets to check whether the overall regression model works. I realized that when we remove some of the outliers the percentage of the accuracy rises and when we ignore those who may not have a checkings or saings account then the accuracy percentage falls and seems to be more riskier.
+In order to predict the accuracy of the credit risk an individual posseses, I used logistic regression and decision trees to verify if the risk is correct or not. I compared the logistic regression and decision tree and realized taht one is relatively better than the other one. I will be using supervised learning as we are given the labeled datasets and also will be developing test and training sets to check whether the overall regression model works. I realized that when we remove some of the outliers the percentage of the accuracy rises and when we ignore those who may not have a checkings or saings account then the accuracy percentage falls and seems to be more riskier.
 
 ## Motivation and Background
 - "Poor credit can make it harder to get car and home loans, and to qualify for credit card accounts." (Investopedia) 
 - "CompareCards by LendingTree conducted an online survey of more than 1,000 people and found that 37 percent either strongly or somewhat agreed with the statement, “I have no idea how my credit score is determined.”
 - When I was in college, I have heard from many individuals like parents, other famile members, famile friends and many others that you should always be alert with your credti card, pay bills on time, pay your loans on time and accordingly protect your credit score. They also told me that with a poor credit score individuals can have a wide serious of trouble from buying a house, car, getting discounts, etc. 
   - That thought came into my mind and I was wondering how would one get an idea of their credit score. I always knew that credit card companies have a FICO score, but that is for that specific card and it may not be your overall score. Therefore, this was a project of interest to me. 
+
+### Video
 
 ### Data
 Dataset: https://www.kaggle.com/kabure/german-credit-data-with-risk This dataset is in Kaggle where it contains all the features that will be used in evaluating whether a person has a credit risk or not and along with that it has a target value that evaluates the risk. We referred to this following dataset to gain an understanding of the features in more details: https://www.kaggle.com/uciml/german-credit The overall dataset was inspired by a dataset in the UCI repo: https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29. This dataset ontains information about individuals in Germany who provided information about their bank account details, jobs, etc and according to UCI, the initial dataset was published by Professor Hoffman in the University of Hamburg and data wass donated around 1994. Ths source of the initial data set is: *Professor Dr. Hans Hofmann Institut f"ur Statistik und "Okonometrie Universit"at Hamburg FB Wirtschaftswissenschaften Von-Melle-Park 5 2000 Hamburg 13*
@@ -31,6 +34,18 @@ Dataset: https://www.kaggle.com/kabure/german-credit-data-with-risk This dataset
 - The dataset has: **"100 rows and 10 columns."**
 
 
+
+## Repository Navigation
+<pre>
+Technical Notebook         : <https://github.com/Debanjan-C/German_Credit/blob/main/Notebook/Technical_Notebook.ipynb>Technical Notebook </a>
+Code                       : <https://github.com/Debanjan-C/German_Credit/blob/main/Notebook/Code.ipynb>Code</a>
+Data                       : <https://github.com/Debanjan-C/German_Credit/blob/main/data/german_credit_data.csv>Data</a>
+Data Web                   : <https://www.kaggle.com/kabure/german-credit-data-with-risk>Data</a>
+Powerpoint                 :
+Video                      :
+</pre>
+
+##  Contributor
 <pre>
 Contributer  : Debanjan Chowdhury
 </pre>
