@@ -31,8 +31,6 @@ In order to predict the accuracy of the credit risk an individual posseses, I us
 - Columns: Age, Sex, Job, Housing, Saving accounts, Checking account, Credit amount, Duration, Purpose, Risk
 - The dataset has: **"100 rows and 10 columns."**
 
-### Limitation and Future work
-Some limitations and future work could be to remove outliers from the overall dataset instead of two columns and compare the results with the initial model. I also could use a higher max leaf node for the decision tree model as I feel that could possible show some different results as the tree would continue splitting till it can develop more leaf nodes. Increasing test size in test-train split may also show some changes in the accuracy realted to the test datasets. It would be interesting to see that in the future. I also would like to see how a job title or role of an individual play an effect on how the overall credit scores and the risk and it would be great if the dataset provides those details.
 
 ##  Contributor
 <pre>
