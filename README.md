@@ -10,7 +10,9 @@ Powerpoint                 : <a href=https://github.com/Debanjan-C/German_Credit
 Video                      : <a href=https://youtu.be/YMHCBM-dnzM>Presentation Video</a>
 </pre>
 
-[Overview](https://github.com/Debanjan-C/German_Credit#overview)-
+## Table of Contents
+[Repository Navigation](https://github.com/Debanjan-C/German_Credit#repository-navigation) -
+[Overview](https://github.com/Debanjan-C/German_Credit#overview) -
 [Business Goals](https://github.com/Debanjan-C/German_Credit#business-goals) -
 [Motivation and Background](https://github.com/Debanjan-C/German_Credit#motivation-and-background) -
 [Data](https://github.com/Debanjan-C/German_Credit#data) -
