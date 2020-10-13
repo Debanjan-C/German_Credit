@@ -37,7 +37,7 @@ In order to predict the accuracy of the credit risk an individual posseses, I us
 Contributer  : Debanjan Chowdhury
 </pre>
 
-##  Software Requirements
+##  Software Requirements - Packages used
 <pre>
 Languages    : Python
 Tools/IDE    : Anaconda, Jupyter Notebook
