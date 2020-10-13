@@ -5,9 +5,9 @@
 
 ## Repository Navigation
 <pre>
-Technical Notebook         : <https://github.com/Debanjan-C/German_Credit/blob/main/Notebook/Technical_Notebook.ipynb>Technical Notebook </a>
-Code                       : <https://github.com/Debanjan-C/German_Credit/blob/main/Notebook/Code.ipynb>Code</a>
-Data                       : <https://github.com/Debanjan-C/German_Credit/blob/main/data/german_credit_data.csv></a>
+Technical Notebook         : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/Notebook/Technical_Notebook.ipynb>Technical Notebook </a>
+Code                       : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/Notebook/Code.ipynb>Code</a>
+Data                       : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/data/german_credit_data.csv></a>
 
 </pre>
 
@@ -35,15 +35,15 @@ Dataset: https://www.kaggle.com/kabure/german-credit-data-with-risk This dataset
 
 
 
-## Repository Navigation
-<pre>
-Technical Notebook         : <https://github.com/Debanjan-C/German_Credit/blob/main/Notebook/Technical_Notebook.ipynb>Technical Notebook </a>
-Code                       : <https://github.com/Debanjan-C/German_Credit/blob/main/Notebook/Code.ipynb>Code</a>
-Data                       : <https://github.com/Debanjan-C/German_Credit/blob/main/data/german_credit_data.csv>Data</a>
-Data Web                   : <https://www.kaggle.com/kabure/german-credit-data-with-risk>Data</a>
+## Table of Contents
+
+Technical Notebook         : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/Notebook/Technical_Notebook.ipynb>Technical Notebook </a>
+Code                       : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/Notebook/Code.ipynb>Code</a>
+Data                       : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/data/german_credit_data.csv>Data</a>
+Data Web                   : <a href=https://www.kaggle.com/kabure/german-credit-data-with-risk>Data</a>
 Powerpoint                 :
 Video                      :
-</pre>
+
 
 ##  Contributor
 <pre>
