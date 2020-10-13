@@ -1,6 +1,3 @@
-# Data_602 
-# Debanjan Chowdhury
-
 # German Credit Risk Classification: Are you at Risk?
 
 ## Overview
