@@ -23,8 +23,8 @@ In order to predict the accuracy of the credit risk an individual posseses, I us
 
 ## Table of Contents
 <pre>
-Technical Notebook         : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/Notebook/Technical_Notebook.ipynb>Technical Notebook </a>
-Code                       : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/Notebook/Code.ipynb>Code</a>
+Technical Notebook         : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/Notebooks/Technical_Notebook.ipynb>Technical Notebook </a>
+Code                       : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/Notebooks/Code.ipynb>Code</a>
 Data                       : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/data/german_credit_data.csv>Data</a>
 Data Web                   : <a href=https://www.kaggle.com/kabure/german-credit-data-with-risk>Data Web</a>
 Powerpoint                 :
