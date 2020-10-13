@@ -28,7 +28,7 @@ Code                       : <a href=https://github.com/Debanjan-C/German_Credit
 Data                       : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/data/german_credit_data.csv>Data</a>
 Data Web                   : <a href=https://www.kaggle.com/kabure/german-credit-data-with-risk>Data Web</a>
 Powerpoint                 :
-Video                      :
+Video                      : <a href=https://youtu.be/YMHCBM-dnzM</a>
 </pre>
 
 ##  Contributor
