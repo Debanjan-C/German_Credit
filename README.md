@@ -1,5 +1,15 @@
 # German Credit Risk Classification: Are you at Risk?
 
+## Table of Contents
+<pre>
+Technical Notebook         : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/Notebooks/Technical_Notebook.ipynb>Technical Notebook </a>
+Code                       : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/Notebooks/Code.ipynb>Code</a>
+Data                       : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/data/german_credit_data.csv>Data</a>
+Data Web                   : <a href=https://www.kaggle.com/kabure/german-credit-data-with-risk>Data Web</a>
+Powerpoint                 : <a href=https://github.com/Debanjan-C/German_Credit/tree/main/Presentation>Presentation</a>
+Video                      : <a href=https://youtu.be/YMHCBM-dnzM>Presentation Video</a>
+</pre>
+
 ## Overview
 In this project, we are identiying the credit details of individuals in Germany and verifying their credit risks. I am passionate about this project, because I have heard about credit scores a lot in college days from parents and others. They all mentioned that with poor great credit score, you cannot buy a car, house or anything. According to Investopedia,  a poor credit can make it harder to get car and home loans, and to qualify for credit card accounts." (Investopedia) Therefore, I wondered how would one know. I realized that we see a FICO credit score for our individual cards and all, but was not sure how I would be able to know the overall. This data set is an intersting dataset where they have stored credit details of individuals in Germany considering many of the common factors like age, jobs, hosuing, savings account, checking account, etc. There are many interesting and common factors that are involved in this dataset.  In this project, I am a Data Scientist in Frankfurt who is working for a finance company. My role is to verify individuals credit details based on the information they provide like age, savings account amount, job , checkings account amount, housing information and many more. The objective is to take multiple features that play a role in determining an individuals credit risks and that will be taken as the target columnd in the dataset. My role in the company as a data scientist is to verify whether the risk evalautions made by co-workers in the company is correct or not. I intially do exploratory data analysis and data cleaning to fill in empty values with the term no account as null values represent that individuals do not have a savings or checkings account. Next, I conducted feature engineering to convert all letters and other non-numeric categorical values into numeric values. After those steps, I developed a logistics regression model where I split the data into test-train sets and tested my dataset. Following that, I used a precision matrix and found the accruacy, precision and recall values of each of the datasets. After that, I decided to also compare the logistic regression training model with the decision tree training model and find the accuracy and other scores along with develop a confusion matrix. What also drove my curiousity is that I wanted to see if removing outliers from important columns or removing the null values in the initial dataset would affect the results of the logistics regression dataset. I realized that scores get better when using decision trees with max leaf nodes as 10 and removing outliers, but not when we remove the null values in intitial dataset. Removing outliers may not always be an option. Therefore, it would be more ideal to use decision tree as a solution. In the future, I would like to like to try increasing max leaf nodes in the decision tree model, try to removal the significant outliers in the entire dataset instead of two columns and check it and I would also like to see how an individuals job title or roles plays a role in credit risks and evaluating the accuracy.
 
@@ -20,16 +30,6 @@ In order to predict the accuracy of the credit risk an individual posseses, I us
 - This dataset ontains information about individuals in Germany who provided information about their bank account details, jobs, etc and according to UCI, the initial dataset was published by Professor Hoffman in the University of Hamburg.
 - Columns: Age, Sex, Job, Housing, Saving accounts, Checking account, Credit amount, Duration, Purpose, Risk
 - The dataset has: **"100 rows and 10 columns."**
-
-## Table of Contents
-<pre>
-Technical Notebook         : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/Notebooks/Technical_Notebook.ipynb>Technical Notebook </a>
-Code                       : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/Notebooks/Code.ipynb>Code</a>
-Data                       : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/data/german_credit_data.csv>Data</a>
-Data Web                   : <a href=https://www.kaggle.com/kabure/german-credit-data-with-risk>Data Web</a>
-Powerpoint                 : <a href=https://github.com/Debanjan-C/German_Credit/tree/main/Presentation>Presentation</a>
-Video                      : <a href=https://youtu.be/YMHCBM-dnzM>Presentation Video</a>
-</pre>
 
 ##  Contributor
 <pre>
