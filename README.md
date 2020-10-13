@@ -1,7 +1,7 @@
 # Data_602 
 # Debanjan Chowdhury
 
-# Predicting Insurance Premiuim Cost for ABC Inc.
+# German Credit Risk Classification: Are you at Risk?
 
 ## Repository Navigation
 <pre>
@@ -11,8 +11,6 @@ Code                       : <></a>
 </pre>
 
 ## Overview
-Project Title: German Credit Risk Classification: Are you at Risk?
-
 This is a project where we are identiying the credit details of individuals in Germany and verifying their credit risks. I am passionate about this project, because I have heard about credit scores a lot in college days from parents and others. They all mentioned that with poor great credit score, you cannot buy a car, buy a house or anything. According to Investopedia, Poor credit can make it harder to get car and home loans, and to qualify for credit card accounts." (Investopedia) Therefore, I wondered how would one know. I realized that we see a FICO credit score for our individual cards and all, but was not sure how I would be able to know the overall. This data set is an intersting dataset where they have stored credit details of individuals in Germany considering many of the common factors like age, jobs, hosuing, savings account, checking account, etc. There are many interesting and common factors that are involved in this dataset.  In this project, I am a Data Scientist in Frankfurt who is working for a I am a Data Scientist in Frankfurt for a finance company where I am verifying individuals credit details based on the information they provide like age, savings account amount, job , checkings amount amount, housing information and many more. Our dataset has about 10 columns and 1,000 rows with mostly categorical and classification datas. The objective is to take multiple features that play a role in determining an individuals credit risks and in the target section. we have the binary classifciation data where it tells us if we are in the risk zone or now. My role in the company as a data scientist is to verify whether the risk evalautions made by co-workers in the company is correct or not. I intially do exploratory data analysis and data cleaning to fill in empty values with the term no account as null values represent that individuals do not have a savings or checkings account. Next, I conductedd feature engineering to convert all letters and other non-numeric categorical values into numeric values as models would use all numeric values After those steps, I developed a logistics regression model where I split the data into test-train sets and tested my dataset. Following that, I used a precision matrix and found the accruacy, precision and recall values of each of the datasets. After that, I decided to also compare the logistic regression training model with the decision tree training model and find the accuracy and other scores along with develop a confusion matrix. What also drove my curiousity is that I wanted to see if removing outliers from important columns or removing the null values in the initial dataset would affect the results of the logistics regression dataset. 
 
 ## Business Goal 
