@@ -6,8 +6,8 @@ Technical Notebook         : <a href=https://github.com/Debanjan-C/German_Credit
 Code                       : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/Notebooks/Code.ipynb>Code</a>
 Data                       : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/data/german_credit_data.csv>Data</a>
 Data Web                   : <a href=https://www.kaggle.com/kabure/german-credit-data-with-risk>Data Web</a>
-Powerpoint                 : <a href=https://github.com/Debanjan-C/German_Credit/tree/main/Presentation>Presentation</a>
-Video                      : <a href=https://youtu.be/YMHCBM-dnzM>Presentation Video</a>
+Powerpoint                 : <a href=https://github.com/Debanjan-C/German_Credit/blob/main/Presentation/Project_Presentation.pdf>Presentation</a>
+Video                      : <a href=>Presentation Video</a>
 </pre>
 
 ## Table of Contents
